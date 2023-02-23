@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99e84794.css",
+    "main.js": "/static/js/main.cbfdad5a.js",
+    "static/media/portfolio-img4.png": "/static/media/portfolio-img4.3396c1767daebe1d6487.png",
+    "static/media/avatar.svg": "/static/media/avatar.c7dceeeef75b0f1fcfd52704b9bfc741.svg",
+    "static/media/portfolio-img3.png": "/static/media/portfolio-img3.1dd8eebbd9565c6e5a49.png",
+    "static/media/about.png": "/static/media/about.8ccc55236d312bb72106.png",
+    "static/media/portfolio-img1.png": "/static/media/portfolio-img1.0e38224354f2e3943f16.png",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img2.png": "/static/media/portfolio-img2.7177608aad457673c6dc.png",
+    "static/media/logo.svg": "/static/media/logo.be77344699086feb0f152abd62b0c090.svg",
+    "index.html": "/index.html",
+    "main.99e84794.css.map": "/static/css/main.99e84794.css.map",
+    "main.cbfdad5a.js.map": "/static/js/main.cbfdad5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99e84794.css",
+    "static/js/main.cbfdad5a.js"
+  ]
+}
